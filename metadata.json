@@ -1,0 +1,6 @@
+{
+  "name": "Tugsjargal Profile",
+  "description": "Төгсжаргалын хөлбөмбөг, Жүжүцү Каисэн болон Gremix-д зориулсан орчин үеийн хувийн нүүр хуудас",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
